@@ -1,7 +1,10 @@
 # habiba-portfolio
 # Habiba Ragab | Power BI Specialist & Data Analyst 📊
 
-Welcome to my professional portfolio. I specialize in transforming HR and business data into strategic insights through advanced data visualization.
+![Habiba Ragab](./linkdin%20profile%20p.png)
+
+## 👤 About Me
+I am a first-year Information Technology student with a passion for data storytelling. I focus on transforming complex datasets into clear, actionable insights using Power BI and Excel. My goal is to bridge the gap between data and strategic decision-making while constantly improving my technical and communication skills.
 
 ---
 
@@ -24,7 +27,5 @@ Analyzing learning progress and professional development data to track growth an
 ---
 
 ## 📬 Let's Connect
-I am a first-year Information Technology student, passionate about leveraging data to drive decision-making.
-
 - **LinkedIn:** [linkedin.com/in/habibaragab4](https://www.linkedin.com/in/habibaragab4)
 - **Email:** [habibaragab482006@gmail.com](mailto:habibaragab482006@gmail.com)
