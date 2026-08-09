@@ -24,6 +24,20 @@ A comprehensive view of global data, visualizing geographic distributions and ke
 Analyzing learning progress and professional development data to track growth and educational milestones within the organization.
 ![Education and Growth](./mydash3.png)
 
+
+
+---
+
+### 📢 Project 4: Marketing Campaigns Performance
+Evaluated $53.6M+ in multi-channel ad spend to pinpoint platform-level ROI, campaign conversion dynamics, and acquisition costs.
+![Marketing Campaigns Dashboard](./mydash4.png)
+
+---
+
+### 💼 Project 5: Commercial Performance Analysis
+Tracked $1.03M+ in multi-year revenue to map product profitability and regional sales velocity across diverse geographic markets.
+![Commercial Performance Dashboard](./mydash5.png)
+
 ---
 
 ## 📬 Let's Connect
